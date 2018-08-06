@@ -2,16 +2,16 @@
 # Theme Customization #
 #######################
 
-title: 我是title                             # used in <title> tag & site header
-author: 我是author                           # used in a <meta> tag & /feed.xml
+title: ToyCod少儿编程                        # used in <title> tag & site header
+author: ToyCode                             # used in a <meta> tag & /feed.xml
 description: >                              # used in a <meta> tag & /feed.xml
   ToyCode编程，易学好玩，一起学习如何编写小游戏
-slogan: slogan是啥？                         # used in site header, beside title
+slogan: 易学，好玩                           # used in site header, beside title
 avatar: /i/avatar.png                       # used as portrait in site header
 banner: /i/mountains.svg                    # used as background in site header
-url: http://solana.ryanlue.com              # used by plugins to generate feed.xml and sitemap.xml
+url: http://www.toycode.net                 # used by plugins to generate feed.xml and sitemap.xml
 baseurl: ''                                 # prepended to all absolute filepaths
-repo: https://github.com/rlue/jekyll-solana # used in footer
+repo: https://www.toycode.net # used in footer
 
 # Objects listed here will appear in the main nav menu.
 # Exceeding four items may cause problems on the desktop (>900px wide) layout.
@@ -34,7 +34,7 @@ nav_menu:
 
 # Objects listed here will appear on the /projects.html page.
 projects:
-  - title: Solana
+  - title: Solana是啥？
     teaser: A responsive blog template written in Sass and vanilla JavaScript.
     url: https://github.com/rlue/jekyll-solana
     role: Creator
