@@ -2,7 +2,7 @@
 # Theme Customization #
 #######################
 
-title: ToyCode少儿编程                        # used in <title> tag & site header
+title: ToyCode编程                        # used in <title> tag & site header
 author: ToyCode                             # used in a <meta> tag & /feed.xml
 description: >                              # used in a <meta> tag & /feed.xml
   ToyCode编程，易学好玩，一起学习如何编写小游戏
@@ -19,36 +19,22 @@ nav_menu:
   - name: 主页
     url: /
     icon: /i/icons.svg#posts # icons should be 24x24 px.
-  - name: Projects
+  - name: 下载
     url: /projects
     icon: /i/icons.svg#portfolio
-  - name: GitHub
-    url: https://github.com/toycode/
-    icon: /i/icons.svg#github
-    outbound: true      # this key sets a link to open in a new window.
-  - name: Contact
-    scheme: mailto      # these keys enable email obfuscation.
-    handle: hello       # you know, to protect you from bots. (handle and domain
-    domain: github.com  # are separated in case bots crawl GitHub repos, too.)
-    icon: /i/icons.svg#email
 
 # Objects listed here will appear on the /projects.html page.
 projects:
-  - title: 教程？
-    teaser: A responsive blog template written in Sass and vanilla JavaScript.
+  - title: ToyDevelop
+    teaser: ToyCode代码开发工具
     url: https://github.com/toycode
     role: Creator
-    category: Frontend Dev
-  - title: Cortana
-    teaser: A talking robot. Now available on Google Play?
-    url: https://play.google.com/store/apps/details?id=com.microsoft.cortana
+    category: 工具
+  - title: ToyPlay
+    teaser: ToyCode程序运行器
+    url: https://github.com/toycode
     role: Core Team
     category: NLP
-  - title: Rihanna
-    teaser: Possibly another robot. Also available on Google Play.
-    url: https://play.google.com/store/music/artist/Rihanna?id=Arcw2m2ih45qntv3fufub25tyhu
-    role: Contributor
-    category: Algorithmic Composition
 
 #################
 # Site Settings #
