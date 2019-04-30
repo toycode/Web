@@ -25,10 +25,10 @@ nav_menu:
 
 # Objects listed here will appear on the /projects.html page.
 projects:
-  - title: ToyCode代码编辑器
-    teaser: 简单易用的开发工具
+  - title: ToyCode源码编辑器
+    teaser: 简单易用的开发工具，只有18M大小
     url: https://github.com/toycode/ToyDevelop/raw/master/ToyCode.zip
-    role: 1.0
+    role: 2019.05.01
     category: 工具
   - title: 测试代码
     teaser: 测试代码
