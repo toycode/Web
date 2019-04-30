@@ -25,8 +25,8 @@ nav_menu:
 
 # Objects listed here will appear on the /projects.html page.
 projects:
-  - title: ToyDevelop
-    teaser: ToyCode代码开发工具
+  - title: ToyCode代码编辑器
+    teaser: 简单易用的开发工具
     url: https://github.com/toycode/ToyDevelop/raw/master/ToyCode.zip
     role: 1.0
     category: 工具
