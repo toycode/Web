@@ -27,7 +27,7 @@ nav_menu:
 projects:
   - title: ToyDevelop
     teaser: ToyCode代码开发工具
-    url: https://github.com/toycode/ToyDevelop/raw/master/ToyDevelop.zip
+    url: https://github.com/toycode/ToyDevelop/raw/master/ToyCode.zip
     role: 1.0
     category: 工具
   - title: 测试代码
