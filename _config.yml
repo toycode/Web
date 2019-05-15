@@ -2,7 +2,7 @@
 # Theme Customization #
 #######################
 
-title: ToyCode编程                        # used in <title> tag & site header
+title: ToyCode编程                          # used in <title> tag & site header
 author: ToyCode                             # used in a <meta> tag & /feed.xml
 description: >                              # used in a <meta> tag & /feed.xml
   ToyCode编程，易学好玩，一起学习如何编写小游戏
